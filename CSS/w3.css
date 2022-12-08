@@ -2176,7 +2176,7 @@ html {
 }
 
 /* end of slideshow css src:https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp*/
-
+/* Jordan code start */
 .marginfix {
   margin-top: 0px;
 }
@@ -2209,7 +2209,7 @@ html {
 .clear {
   clear: both;
 }
-
+/* Jordan code end */
 /* Vince start MAPBOX code src: https://github.com/mapbox/storytelling*/
 .paddel {padding-top: 30px;}
 
@@ -2371,7 +2371,7 @@ html {
   background-color: rgba(255, 255, 255, 0.6);
 }
 /* Vince code end */
-
+/* Jordan code start */
 .max {max-width: 1000px; max-height: 667px;}
 
 .padd {margin-bottom: 20%;}
@@ -2379,3 +2379,4 @@ html {
 .max1 {max-width: 400px; max-height: 292px;}
 .max2 {max-width: 400px; max-height: 247px;}
 .max3 {max-width: 400px; max-height: 309px;}
+/* Jordan code end */
